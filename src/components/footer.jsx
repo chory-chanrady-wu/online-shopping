@@ -74,7 +74,7 @@ function Footer() {
               className="hover:scale-110 transition-transform"
             >
               <img
-                src="/public/images/facebook.png"
+                src="/images/facebook.png"
                 alt="Facebook"
                 className="w-8 h-8"
               />
@@ -85,7 +85,7 @@ function Footer() {
               className="hover:scale-110 transition-transform"
             >
               <img
-                src="/public/images/instagram.png"
+                src="/images/instagram.png"
                 alt="Instagram"
                 className="w-8 h-8"
               />
@@ -95,11 +95,7 @@ function Footer() {
               target="_blank"
               className="hover:scale-110 transition-transform"
             >
-              <img
-                src="/public/images/tiktok.png"
-                alt="Tiktok"
-                className="w-8 h-8"
-              />
+              <img src="/images/tiktok.png" alt="Tiktok" className="w-8 h-8" />
             </a>
           </div>
         </div>

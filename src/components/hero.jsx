@@ -8,11 +8,7 @@ function Hero() {
         <div className="max-w-6xl mx-auto flex items-center justify-between relative">
           {/* Left: Logo */}
           <div className="flex-shrink-0">
-            <img
-              src="/public/images/logo.png"
-              alt="Logo"
-              className="h-12 w-auto"
-            />
+            <img src="/images/logo.png" alt="Logo" className="h-12 w-auto" />
           </div>
 
           {/* Center: Navigation */}
