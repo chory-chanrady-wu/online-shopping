@@ -8,7 +8,7 @@ function Home() {
         <Hero />
       </div>
       <div>
-        <h1 className="text-center font-bold text-2xl">Product</h1>
+        <h1 className="text-center font-bold text-2xl">Home Page</h1>
       </div>
       <div>
         <Footer />
