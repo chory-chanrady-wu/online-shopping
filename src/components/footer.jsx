@@ -1,4 +1,3 @@
-import logo from "../assets/images/logo.png";
 import "../App.css";
 import { Link } from "react-router-dom";
 import React from "react";
@@ -75,7 +74,7 @@ function Footer() {
               className="hover:scale-110 transition-transform"
             >
               <img
-                src="/src/assets/images/facebook.png"
+                src="/public/images/facebook.png"
                 alt="Facebook"
                 className="w-8 h-8"
               />
@@ -86,7 +85,7 @@ function Footer() {
               className="hover:scale-110 transition-transform"
             >
               <img
-                src="/src/assets/images/instagram.png"
+                src="/public/images/instagram.png"
                 alt="Instagram"
                 className="w-8 h-8"
               />
@@ -97,7 +96,7 @@ function Footer() {
               className="hover:scale-110 transition-transform"
             >
               <img
-                src="/src/assets/images/Tiktok.png"
+                src="/public/images/tiktok.png"
                 alt="Tiktok"
                 className="w-8 h-8"
               />
