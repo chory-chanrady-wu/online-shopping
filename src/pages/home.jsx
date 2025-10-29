@@ -1,9 +1,7 @@
-import React from "react";
-import { Routes, Route } from "react-router-dom";
 import Hero from "../components/hero";
 import Footer from "../components/footer";
 
-function Product() {
+function Home() {
   return (
     <section>
       <div>
@@ -12,7 +10,6 @@ function Product() {
       <div>
         <h1 className="text-center font-bold text-2xl">Product</h1>
       </div>
-
       <div>
         <Footer />
       </div>
@@ -20,4 +17,4 @@ function Product() {
   );
 }
 
-export default Product;
+export default Home;

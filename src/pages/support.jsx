@@ -1,16 +1,14 @@
-import React from "react";
-import { Routes, Route } from "react-router-dom";
 import Hero from "../components/hero";
 import Footer from "../components/footer";
 
-function Product() {
+function Support() {
   return (
     <section>
       <div>
         <Hero />
       </div>
       <div>
-        <h1 className="text-center font-bold text-2xl">Product</h1>
+        <h1 className="text-center font-bold text-2xl">Support</h1>
       </div>
 
       <div>
@@ -20,4 +18,4 @@ function Product() {
   );
 }
 
-export default Product;
+export default Support;
