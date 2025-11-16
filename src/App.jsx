@@ -6,7 +6,7 @@ import Home from "./pages/home";
 import Trending from "./pages/trending";
 import Support from "./pages/support";
 import Company from "./pages/company";
-// import Login from "./pages/login";
+import Login from "./pages/login";
 // import Signup from "./pages/signup";
 
 function App() {
@@ -19,7 +19,7 @@ function App() {
       <Route path="/trending" element={<Trending />} />
       <Route path="/support" element={<Support />} />
       <Route path="/company" element={<Company />} />
-      {/* <Route path="/login" element={<Login />} /> */}
+      <Route path="/login" element={<Login />} />
       {/* <Route path="/signup" element={<Signup />} /> */}
     </Routes>
   );

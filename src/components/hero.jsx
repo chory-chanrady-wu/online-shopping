@@ -32,7 +32,7 @@ function Hero() {
 
           {/* Right: Login */}
           <div>
-            <a href="#" className="hover:text-indigo-400">
+            <a href="/login" className="hover:text-indigo-400">
               Log in →
             </a>
           </div>

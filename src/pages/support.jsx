@@ -7,7 +7,7 @@ function Support() {
       <div>
         <Hero />
       </div>
-      <div>
+      <div className="bg-gray-800 flex items-center justify-center">
         <h1 className="text-center font-bold text-2xl">Support</h1>
       </div>
 
