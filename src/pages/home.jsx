@@ -8,8 +8,12 @@ function Home() {
         <Hero />
       </div>
       <div className="bg-gray-800 flex items-center justify-center">
-        <h1 className="text-center font-bold text-2xl">Home Page</h1>
+        <p className="text-white text-center">
+          Welcome to the home page! This is a simple example of a React
+          component that displays a hero section and a footer.
+        </p>
       </div>
+
       <div>
         <Footer />
       </div>
